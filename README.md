@@ -2,9 +2,9 @@
 
 Worked on Linux (XKB specifically) and several other open-source projects
 
-I have a weird hobby of exploring obscure operating systems
-
 Current flagship project — WikiSchedule, a wiki-like class schedule manager in a form of a messenger bot
+
+I have a weird hobby of exploring obscure operating systems
 
 I know Python and am currently learning Go.
 
