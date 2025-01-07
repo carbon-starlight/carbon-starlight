@@ -1,4 +1,4 @@
-20yo software enthusiast from Eurasia
+21yo software enthusiast from Eurasia
 
 Worked on Linux (XKB specifically) and several other open-source projects
 
