@@ -4,7 +4,7 @@
 
 Current flagship project—WikiSchedule, a wiki-like class schedule manager in a form of a messenger bot
 
-I have a weird hobby of exploring obscure operating systems and character sets
+I have a weird hobby of exploring obscure operating systems and 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛 𝚜𝚎𝚝𝚜
 
 I know Python and am currently learning Go
 
